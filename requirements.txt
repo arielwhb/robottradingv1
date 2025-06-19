@@ -1,0 +1,5 @@
+flask
+tradingview-ta
+schedule
+requests
+beautifulsoup4
